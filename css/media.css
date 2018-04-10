@@ -1,3 +1,11 @@
+@media only screen and (max-width: 946px){
+	
+	article h2 {
+	    color: #666;
+	    font-size: 3rem;
+	}
+}
+
 @media only screen and (max-width: 768px){
 
 /*======================
@@ -60,16 +68,11 @@
 		Header
 ======================*/
 
-	header h1 {
-	    color: #666;
-	    font-size: 3rem;
-	}
-
-	header .col-md-5 {
+	article .col-md-5 {
 	    padding-left: 1.5rem;
 	}
 
-	header {
+	article {
 	    margin-bottom: 2rem;
 	    margin-top: 3rem;
 	}

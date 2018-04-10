@@ -141,39 +141,39 @@ hr {
 		Header
 ======================*/
 
-header{
+article{
 	margin-bottom: 5rem;
 	margin-top: 5rem;
 }
 
-header img{
+article img{
 	width: 100%;
 }
 
-header h1{
+article h2{
 	color: #666;
 	font-size: 6rem;
 }
 
-header .col-md-5{
+article .col-md-5{
 	padding-left: 6rem;
 }
 
-header p{
+article p{
 	color: #666;
 }
 
-header p a{
+article p a{
 	color: #2e9232;
 	text-transform: uppercase;
 }
 
-header p a:hover{
+article p a:hover{
 	color: #FF9800;
 	text-decoration: none;
 }
 
-header p a:focus{
+article p a:focus{
 	color: #FF9800;
 	text-decoration: none;
 }
@@ -182,36 +182,36 @@ header p a:focus{
 		section
 ======================*/
 
-section{
+.article{
 	margin-bottom: 5rem;
 }
-section .post{
+.article .post{
 	margin-top: 3rem;
 }
 
-section h4{
+.article h4{
 	color: #666;
 }
 
-section h6{
+.article h6{
 	color: #989898;
 }
 
-section p a{
+.article p a{
 	color: #2e9232;
 }	
 
-section p a:hover{
+.article p a:hover{
 	color: #FF9800;
 	text-decoration: none;
 }	
 
-section p a:focus{
+.article p a:focus{
 	color: #FF9800;
 	text-decoration: none;
 }	
 
-section img {
+.article img {
     border: 1px solid #b6ffb9;
     width: 100%;
     padding: 1.2rem;
