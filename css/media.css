@@ -3,17 +3,11 @@
 /*======================
 	Upper Nav Bar
 ======================*/
-
-	.upper-nav ul {
-	    list-style: none;
-	    height: 5rem;
-	    padding-top: 1rem;
-	    padding-left: .3rem;
-	    padding-right: .3rem;
-	}
-
-	.upper-nav ul li a {
-	    font-size: 1rem;
+	
+	.upper-nav {
+	    background: #2e9232;
+	    height: 11rem;
+	    padding: 18px 0;
 	}
 
 	.form-control {

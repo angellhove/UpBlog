@@ -15,8 +15,22 @@ hr {
 	Upper Nav Bar
 ======================*/
 
-.upper-nav{
-	background: #2e9232;
+.upper-nav {
+    background: #2e9232;
+    height: 7rem;
+    padding: 18px;
+}
+
+.upper-nav a{
+	color: #fff;
+	font-size: 1.2rem;
+	border-right: 1px solid #fff; 
+	padding-right: 1rem;
+	text-decoration: none;
+}
+
+.upper-nav a:hover{
+	color: #fff172;
 }
 
 .upper-nav ul{
@@ -257,5 +271,10 @@ footer h6{
 }
 
 footer a{
+	color: #ffffff;
+}
+
+footer a:hover, footer a:focus{
 	color: #fff172;
+	text-decoration: none;
 }
